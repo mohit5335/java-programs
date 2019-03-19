@@ -1,5 +1,5 @@
 class Shift
-{
+ {
 	public static void main(String...k)
 	{
 	int a = 8;		//1000
@@ -9,4 +9,4 @@ class Shift
 	System.out.println("After left shift of 2 = "+b);
 	System.out.println("After right shift of 2 = "+c);
 	}
-}
+ }
